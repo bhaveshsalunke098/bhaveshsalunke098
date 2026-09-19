@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on AI & Data Science projects involving Machine Learning, Data Analytics, Generative AI, RAG, Agentic AI, and RPA automation. I’m continuously learning Generative AI, RAG, Agentic AI, advanced Machine Learning, REST APIs, and intelligent automation. I’m looking to collaborate on AI, Machine Learning, Data Science, Data Analytics, Generative AI, and automation projects. I enjoy discussing Python, Machine Learning, Data Analytics, Power BI, RPA, UiPath, Generative AI, and practical AI projects. I’m passionate about building practical solutions, exploring new technologies, and turning ideas into useful projects. 🚀<br>
+I’m currently working on AI & Data Science projects involving Machine Learning, Data Analytics, Generative AI, RAG, Agentic AI, and RPA automation. 
+I’m continuously learning Generative AI, RAG, Agentic AI, advanced Machine Learning, REST APIs, and intelligent automation.
+I’m looking to collaborate on AI, Machine Learning, Data Science, Data Analytics, Generative AI, and automation projects. 
+I enjoy discussing Python, Machine Learning, Data Analytics, Power BI, RPA, UiPath, Generative AI, and practical AI projects.
+I’m passionate about building practical solutions, exploring new technologies, and turning ideas into useful projects. 🚀<br>
 
 
 ## 🌐 Socials:
